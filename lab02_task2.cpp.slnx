@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lab02_task2.cpp/lab02_task2.cpp.vcxproj" />
+</Solution>
